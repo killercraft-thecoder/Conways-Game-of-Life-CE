@@ -234,6 +234,7 @@ int main(void)
 
             render_menu(menu_index);
             gfx_SwapDraw();
+            msleep(100);
             break;
 
         // -------------------------------
