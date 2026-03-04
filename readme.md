@@ -1,5 +1,5 @@
-### Flood Fill Demo
+### Conways Game of Life CE
 
-Fills a polygon image with a color using the flood fill function.
-
+A Implemenation of Conways Game of Life for the CE in C.
+Complete with a in-game editor and saving.
 ![Screenshot](screenshot.png)
